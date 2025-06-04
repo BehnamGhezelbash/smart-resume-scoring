@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# Environment files
+.env
+.venv/
+venv/
+env/
+pip-log.txt
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# MacOS/Windows system files
+.DS_Store
+Thumbs.db
+
+
+*.pdf
+
+# Logs
+*.log
+
+# PyMuPDF temp cache
+*.xhtml
+
+# Ignore all resumes
+resumes/resume1.pdf
+resumes/resume2.pdf
+
+
+!resumes/.keep
+
